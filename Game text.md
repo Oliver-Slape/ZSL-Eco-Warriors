@@ -528,7 +528,7 @@ Show score of questions and time taken.
 
 ## In-Game Facts
 
-Arctic Tundra
+### Arctic Tundra
 
 Step 5 fact: In the UK natural gas has almost run out, so it is imported from further away
 
@@ -544,16 +544,20 @@ Any time fact: Melted water and rainfall to soak right through the soil so there
 
 Any time fact: Some scientists believe that at this rate the Arctic could be ice-free by 2030 or even earlier
 
-Ocean
+### Ocean
 
 Step 12 fact: Methane is 23 times more harmful to the environment than carbon
+
 Any time fact: London alone drinks 2 million plastic bottles of water daily (and that’s just water!)
+
 Any time fact: Warming of the seas is causing animal to move to cooler waters, and coral bleaching
+
 Any time fact: More CO2 is being absorbed by the ocean and a chemical reaction occurs, making the ocean more acidic
+
 Any time fact: Acidic oceans are less saturated with calcium carbonate, which is used to produce/maintain shells of crabs, mussels and clams
 
 
-Rainforest
+### Rainforest
 
 Step 1 fact: Mining takes place in, and destroys rainforests
 
@@ -565,7 +569,7 @@ Any time fact: Temperatures increasing and a lack of rainfall cause a drought
 
 Any time fact: The drought causes forest fires, and the burning of the trees releases more carbon into the atmosphere
 
-British Countryside
+### British Countryside
 
 Step 2 fact: Carbon is also released when electricity is generated to produce pesticides
 
